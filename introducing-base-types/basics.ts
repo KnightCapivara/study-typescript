@@ -1,8 +1,8 @@
-// Primitives: number, string, boolean
-// More complex types: arrays, objects
-// Function types, parameters
+// Primitivos: número, string, booleano
+// Tipos mais complexos: arrays, objetos
+// Tipos de função, parâmetros
 
-// Primitives
+// Primitivos
 
 let age: number;
 
@@ -16,7 +16,7 @@ let isInstructor: boolean;
 
 isInstructor = true;
 
-// More complex types
+// Tipos mais complexos
 
 let hobbies: string[];
 
